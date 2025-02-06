@@ -27,11 +27,9 @@ To start the challenge, you will need to pull the Docker image from DockerHub an
 
 Before you start, make sure you have the following installed:
 
-```bash
   - Docker: This CTF runs within a Docker container. You can install Docker from (https://www.docker.com/get-started).
 
   - Docker Hub Account (optional): You may want an account to track the images you're pulling.
-```
 
 ## Getting Started
 
